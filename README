@@ -1,0 +1,28 @@
+# NŌS — Brand DNA
+
+**Read this folder before creating anything for NŌS** — copy, product pages, emails, ads, social, images, or design. These six files are the single source of truth for the brand. When something conflicts, match these documents.
+
+> ⚠️ **Ignore the theme files in this repo.** The `assets/pulse-brand.css` and `sections/pulse-*.liquid` files describe an earlier "Pulse / apothecary skincare" concept that has been **replaced**. It is stale and contradicts the real brand. The live brand is **NŌS** (`nos-8073.myshopify.com`), captured here.
+
+## NŌS in one breath
+NŌS turns inner transformation into something the body can measure. It sits where **clinical skincare meets depth psychology** — a daily microcurrent + intention-coded ritual that gives visible, physical evidence that you are changing. Not skincare. Reconditioning.
+
+## The files
+| File | Use it for |
+|---|---|
+| [positioning.md](positioning.md) | Who it's for, the category, the gap we own, value props, proof |
+| [voice-and-tone.md](voice-and-tone.md) | How NŌS sounds — attributes, do/don't vocabulary, examples |
+| [visual-identity.md](visual-identity.md) | Logo, exact colors, type, imagery, layout |
+| [brand-story.md](brand-story.md) | Origin, the name, founder framing, the four disciplines, values |
+| [messaging.md](messaging.md) | Taglines, elevator pitch, key messages, boilerplate, product names |
+
+## How agents use this — rules
+1. **Read `positioning.md` + `voice-and-tone.md` before writing any copy.** Read `visual-identity.md` before any design or image work.
+2. **Stay in the lane:** science + mental-health language. **Never** spiritual or "witchy" vocabulary (see voice-and-tone).
+3. **Keep the founder anonymous.** The hero is the shared struggle and the story, not a person. Speak to "you" and "us" — never a named founder.
+4. **Honesty over hype.** Ground claims in evidence; keep health/efficacy claims careful and asterisked where the live site does.
+5. **Everyone, the same descent.** The emotional core is shared human experience — uncompromising, but for everyone doing the work. Never cold or elitist.
+6. **Product grammar:** always "**The** Pulse," "**The** Vessels." Always keep the macron: **NŌS**, never "NOS."
+
+---
+*Last updated: 2026-07-19 · Source: live storefront nos-8073.myshopify.com. Items marked "(assumption — confirm)" were inferred, not taken from the store.*
