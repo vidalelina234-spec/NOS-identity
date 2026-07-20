@@ -1,0 +1,39 @@
+# Visual Identity
+
+*All values pulled directly from the live storefront (`nos-8073.myshopify.com`).*
+
+## Logo
+- **Wordmark only: NŌS** — the name, set in the display serif, with the **macron over the O** (Ō). Simple, elegant, name-as-logo.
+- The macron is a brand asset — it carries the dual meaning (Greek *noos* + Latin *nos*). **Preserve it; never render it as "NOS."**
+- *(assumption — confirm)* Master logo file lives in the theme; request the SVG for print / high-res use.
+
+## Color palette (exact)
+| Role | Hex | Notes |
+|---|---|---|
+| Base / background | `#000000` | Pure black — the brand ground |
+| Body text / warm gold | `#B59E7D` | Tan-bronze; primary foreground |
+| Heading / cream | `#F1EADA` | Warm off-white for headlines |
+| Accent — teal | `#288D8D` | The one saturated accent; use sparingly |
+| Primary button — sand | `#CEC1A8` | Warm sand fill, black text |
+| Near-white surface | `#F9F8F6` | Light panels / variant chips |
+| Muted foreground | `#B59E7D` @ 60% | Secondary text |
+
+**Feel:** dark, warm-metallic, luxurious, restrained. **Black + gold + cream is the signature; teal is the accent, never the lead.**
+
+## Typography
+- **Display / headings:** **Gilda Display** (serif, weight 400) — elegant, editorial, luxe. Use for H1–H3, pull-quotes, hero lines.
+- **Body / UI:** **Jost** (geometric sans; 400/700, italics available) — clean, modern, readable.
+- **Labels / accents:** GTStandard-M (450–600) as loaded on-site — for eyebrows / UI.
+- **Pairing rule:** serif for *meaning*, sans for *mechanism*. Generous line spacing; let headlines breathe.
+
+## Imagery *(assumption — confirm against live art direction)*
+- Dark, cinematic, high-contrast; warm low light against black.
+- Real skin, real texture — no plastic retouching (aligns with "evidence you can see").
+- Product as *instrument*: sculptural, reverent, close-up.
+- Symbolic / depth motifs (descent, roots, soil, water, thresholds) over literal spa imagery — grounded, never mystical.
+
+## Layout principles
+- Black canvas, wide margins, generous negative space.
+- Uppercase eyebrows / labels with letter-spacing.
+- Quiet, slow motion (subtle fades and lifts) — never bouncy.
+- One accent moment per view; restraint signals luxury.
